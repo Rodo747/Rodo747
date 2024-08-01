@@ -18,12 +18,12 @@
 - **Machine Learning applied to IoT**
 - **Web development with Flask and React**
 - **PCB design with KiCAD**
-
+<!-- 
 ### 🏆 Achievements and Certifications
 - **Certification in Python Programming** - [Institution] (Date)
 - **Best Technological Innovation Project Award** - [Brief description of the award]
 - **Specialization Course in IoT and Automation** - [Institution] (Date)
-
+-->
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
