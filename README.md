@@ -10,9 +10,9 @@
 - **Areas of Interest**: IoT, Automation, Machine Learning, Artificial Vision.
 
 ### 🔧 Featured Projects
-- **[🌱 Greenhouse Automation Project]**: Automated greenhouse with IoT control and monitoring system designed for a Walipini(underground greenhouse).
-- **[📊 Data Dispersion Device]**: CNC machine for studying statistical dispersion analysis, collecting data with artificial vision.
-- **[⚙️ B.R.A.V.A]**: ROS-based robotic arm for assisting people with difficulties in holding or reaching solid foods using artificial vision.
+- **🌱 Greenhouse Automation Project**: Automated greenhouse with IoT control and monitoring system designed for a Walipini(underground greenhouse).
+- **📊 Data Dispersion Device**: CNC machine for studying statistical dispersion analysis, collecting data with artificial vision.
+- **⚙️ B.R.A.V.A**: ROS-based robotic arm for assisting people with difficulties in holding or reaching solid foods using artificial vision.
 
 ### 📚 Currently Learning
 - **Machine Learning applied to IoT**
