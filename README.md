@@ -4,20 +4,20 @@
 **Mechatronics Engineering** student, passionate about new technologies and expert in solving complex problems with an innovative approach.
 
 ### 💻 Skills
-- **Programming Languages**: Python, C/C++, JavaScript
-- **Technologies**: MicroPython, Arduino, Raspberry Pi, ESP32
-- **Tools**: Git, MySQL, MATLAB
-- **Areas of Interest**: IoT, Automation, Machine Learning, Robotics
+- **Programming Languages**: Python, C/C++, JavaScript, PHP, HTML.
+- **Technologies**: IoT, MicroPython, Artifical Vision, Big Data.
+- **Tools**: MySQL, Matlab, Grafana, Colab, Thony.
+- **Areas of Interest**: IoT, Automation, Machine Learning, Artificial Vision.
 
 ### 🔧 Featured Projects
-- **[🚀 Greenhouse Automation Project](link_to_project)**: Implemented an automated control system using DHT22 sensors and actuators controlled by ESP32 to optimize the environment in a greenhouse.
-- **[⚙️ Air Quality Monitoring with ESP32](link_to_project)**: Developed a system to monitor air quality in real-time using MQ2 sensors and sending data to a MySQL database for analysis.
-- **[📊 Real-Time Data Dashboard](link_to_project)**: Created an interactive dashboard using Python and Plotly to visualize real-time data from IoT sensors.
+- **[🌱 Greenhouse Automation Project](link_to_project)**: Automated greenhouse with IoT control and monitoring system designed for a Walipini(underground greenhouse).
+- **[📊 Data Dispersion Device](link_to_project)**: CNC machine for studying statistical dispersion analysis, collecting data with artificial vision.
+- **[⚙️ B.R.A.V.A](link_to_project)**: ROS-based robotic arm for assisting people with difficulties in holding or reaching solid foods using artificial vision.
 
-### 🌱 Currently Learning
+### 📚 Currently Learning
 - **Machine Learning applied to IoT**
-- **Web development with Flask and React**
-- **PCB design with KiCAD**
+- **Blockchain and security**
+- **Web Development**
 <!-- 
 ### 🏆 Achievements and Certifications
 - **Certification in Python Programming** - [Institution] (Date)
@@ -30,12 +30,10 @@
 ### 💬 Languages
 - **Spanish**: Native
 - **English**: Advanced
-- **[Other Language]**: Level
 
 ### 📫 How to Reach Me
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
-- **Portfolio**: [Your Website](https://www.yourwebsite.com)
+- **Email**: [your.email@example.com](rodolfo.soliz.b@gmail.com)
+- **LinkedIn**: [Your LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/rodolfo-soliz-barrientos744/))
 <!-- 
 ### 📚 Articles and Publications
 - **[Article Title 1](link_to_article)**: Brief description of the article or publication.
