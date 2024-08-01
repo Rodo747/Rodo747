@@ -32,8 +32,8 @@
 - **English**: Advanced
 
 ### 📫 How to Reach Me
-- **Email**: [your.email@example.com](rodolfo.soliz.b@gmail.com)
-- **LinkedIn**: [Your LinkedIn](www.linkedin.com/in/rodolfo-soliz-barrientos744)
+- **Email**: [rodolfo.soliz.b@gmail.com](rodolfo.soliz.b@gmail.com)
+- **LinkedIn**: [www.linkedin.com/in/rodolfo-soliz-barrientos744](www.linkedin.com/in/rodolfo-soliz-barrientos744)
 <!-- 
 ### 📚 Articles and Publications
 - **[Article Title 1](link_to_article)**: Brief description of the article or publication.
