@@ -1,45 +1,49 @@
-## Hi there my name is Rodolfo👋
+# Hello! 👋 I'm [Rodo]
 
-<br />
+### 🚀 About Me
+I'm a **Mechatronics Engineering** student passionate about **new technologies** with a strong ability in **problem-solving**. I love learning and applying my knowledge to innovative projects, especially in the fields of **automation** and **embedded systems**.
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+### 💻 Skills
+- **Programming Languages**: Python, C/C++, JavaScript
+- **Technologies**: MicroPython, Arduino, Raspberry Pi, ESP32
+- **Tools**: Git, MySQL, MATLAB
+- **Areas of Interest**: IoT, Automation, Machine Learning, Robotics
 
-**About me**
+### 🔧 Featured Projects
+- **[🚀 Greenhouse Automation Project](link_to_project)**: Implemented an automated control system using DHT22 sensors and actuators controlled by ESP32 to optimize the environment in a greenhouse.
+- **[⚙️ Air Quality Monitoring with ESP32](link_to_project)**: Developed a system to monitor air quality in real-time using MQ2 sensors and sending data to a MySQL database for analysis.
+- **[📊 Real-Time Data Dashboard](link_to_project)**: Created an interactive dashboard using Python and Plotly to visualize real-time data from IoT sensors.
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+### 🌱 Currently Learning
+- **Machine Learning applied to IoT**
+- **Web development with Flask and React**
+- **PCB design with KiCAD**
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+### 🏆 Achievements and Certifications
+- **Certification in Python Programming** - [Institution] (Date)
+- **Best Technological Innovation Project Award** - [Brief description of the award]
+- **Specialization Course in IoT and Automation** - [Institution] (Date)
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+### 💬 Languages
+- **Spanish**: Native
+- **English**: Advanced
+- **[Other Language]**: Level
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+### 📫 How to Reach Me
+- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
+- **Portfolio**: [Your Website](https://www.yourwebsite.com)
 
+### 📚 Articles and Publications
+- **[Article Title 1](link_to_article)**: Brief description of the article or publication.
+- **[Article Title 2](link_to_article)**: Brief description of the article or publication.
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+### 🌟 Recommendations
+*"Working with [Your Name] was an amazing experience; their ability to solve complex problems is impressive."* - [Person's Name], [Position], [Company/Institution]
 
-#### Top Repositories
+---
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a>
-
-<br />
-<br />
-
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
+Thank you for visiting my profile! If you have any questions, would like to collaborate on a project, or just want to chat about technology, feel free to reach out. 😊
