@@ -1,4 +1,4 @@
-# Hello! 👋 I'm [Rodo]
+# Hello! 👋 I'm Rodo
 
 ### 🚀 About Me
 **Mechatronics Engineering** student, passionate about new technologies and expert in solving complex problems with an innovative approach.
