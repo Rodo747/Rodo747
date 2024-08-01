@@ -23,7 +23,7 @@
 - **Certification in Python Programming** - [Institution] (Date)
 - **Best Technological Innovation Project Award** - [Brief description of the award]
 - **Specialization Course in IoT and Automation** - [Institution] (Date)
-
+-->
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rodo747&show_icons=true&theme=radical)
 
