@@ -33,7 +33,7 @@
 
 ### 📫 How to Reach Me
 - **Email**: [rodolfo.soliz.b@gmail.com](rodolfo.soliz.b@gmail.com)
-- **LinkedIn**: [[www.linkedin.com/in/rodolfo-soliz-barrientos744](https://www.linkedin.com/in/rodolfo-soliz-barrientos744/)]([www.linkedin.com/in/rodolfo-soliz-barrientos744](https://www.linkedin.com/in/rodolfo-soliz-barrientos744/))
+- **LinkedIn**:([www.linkedin.com/in/rodolfo-soliz-barrientos744](https://www.linkedin.com/in/rodolfo-soliz-barrientos744/))
 <!-- 
 ### 📚 Articles and Publications
 - **[Article Title 1](link_to_article)**: Brief description of the article or publication.
