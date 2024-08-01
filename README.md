@@ -1,7 +1,7 @@
 # Hello! 👋 I'm [Rodo]
 
 ### 🚀 About Me
-I'm a **Mechatronics Engineering** student passionate about **new technologies** with a strong ability in **problem-solving**. I love learning and applying my knowledge to innovative projects, especially in the fields of **automation** and **embedded systems**.
+**Mechatronics Engineering** student, passionate about new technologies and expert in solving complex problems with an innovative approach.
 
 ### 💻 Skills
 - **Programming Languages**: Python, C/C++, JavaScript
